@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-## Databases and SQL for Data Science
+## Machine Learning with Python
 
 [![](https://images.youracclaim.com/size/340x340/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png "Machine Learning with Python")](https://www.youracclaim.com/badges/43008dfc-d93c-498b-91d6-2fd4cc361e4e)
 
