@@ -5,6 +5,12 @@
 \BOOKMARK [2][-]{subsection.2.1}{Data Understanding}{section.2}% 5
 \BOOKMARK [2][-]{subsection.2.2}{Statistical Insights}{section.2}% 6
 \BOOKMARK [1][-]{section.3}{Methodology}{}% 7
-\BOOKMARK [1][-]{section.4}{Results}{}% 8
-\BOOKMARK [1][-]{section.5}{Conclusion}{}% 9
-\BOOKMARK [1][-]{section.6}{Future Work}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Data Pre-processing}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Modelling and Evaluation}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Decision Tree Classifier}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Random Forest Classifier}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Logistic Regression Classifier}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Artificial Neural Network}{subsection.3.2}% 13
+\BOOKMARK [1][-]{section.4}{Results}{}% 14
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 15
+\BOOKMARK [1][-]{section.6}{Future Work}{}% 16
